@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "237250623097",
+    "firebase_url": "https://reactnativecryptoflutter.firebaseio.com",
+    "project_id": "reactnativecryptoflutter",
+    "storage_bucket": "reactnativecryptoflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237250623097:android:1fcd28f14aafddcd",
+        "android_client_info": {
+          "package_name": "com.reactnativecryptoflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237250623097-1fgb69dcftp2egt4bbajspjlmfevlmua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA227QiuGT4lf68sLLr0GMEy2TRiCm5ihQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237250623097:android:4e3737f3768c308e",
+        "android_client_info": {
+          "package_name": "com.reactnativecryptoflutter.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237250623097-1fgb69dcftp2egt4bbajspjlmfevlmua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA227QiuGT4lf68sLLr0GMEy2TRiCm5ihQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
