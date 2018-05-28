@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\lanovo\\ReactNativeCryptoFlutter\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\lanovo\\ReactNativeCryptoFlutter\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.54.2\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\lanovo\\Documents\\GitHub\\CryptoFlutter\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\lanovo\\Documents\\GitHub\\CryptoFlutter\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.54.2\\res\\xml\\preferences.xml"
     }
 ]

@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\lanovo\\ReactNativeCryptoFlutter\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\lanovo\\ReactNativeCryptoFlutter\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lanovo\\Documents\\GitHub\\CryptoFlutter\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\lanovo\\Documents\\GitHub\\CryptoFlutter\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]
